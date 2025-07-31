@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DEBD43-9801-4C47-9A68-4F0B27799CFB}|Cars1.csproj|C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5DEBD43-9801-4C47-9A68-4F0B27799CFB}|Cars1.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DEBD43-9801-4C47-9A68-4F0B27799CFB}|Cars1.csproj|c:\\users\\micha\\documents\\github\\infosystemscoursework\\infosystemscoursework\\carsform\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DEBD43-9801-4C47-9A68-4F0B27799CFB}|Cars1.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DEBD43-9801-4C47-9A68-4F0B27799CFB}|Cars1.csproj|C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5DEBD43-9801-4C47-9A68-4F0B27799CFB}|Cars1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DEBD43-9801-4C47-9A68-4F0B27799CFB}|Cars1.csproj|C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DEBD43-9801-4C47-9A68-4F0B27799CFB}|Cars1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAA3wFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:37:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:35:21.915Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:49:49.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\GitHub\\InfoSystemsCoursework\\InfoSystemsCoursework\\CarsForm\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAmwFkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:16:55.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
